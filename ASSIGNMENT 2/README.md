@@ -1,6 +1,6 @@
 # Circuit Solver
 
-Circuit solver written in *Python*
+Circuit solver written in **Python**
 Takes in netlist file name as input and gives nodal voltages and currents through voltage sources as output
 
 Uses Modified Nodal Analysis (MNA) matrix method 
